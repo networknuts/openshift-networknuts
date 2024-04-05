@@ -54,3 +54,17 @@ crc setup
 ```bash
 crc start -p pull-secret.txt
 ```
+
+# Optional:
+
+## 8. Stop Openshift Local
+
+```bash
+crc stop
+```
+
+## 7. Delete Openshift Local
+
+```bash
+crc delete
+```
