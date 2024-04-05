@@ -7,6 +7,8 @@ This documentation is based on the Openshift Local installation by Network Nuts
 1. RHEL8 or RHEL9 Virtual Machine
 2. Minimum 4 CPU & 9 GB RAM
 3. 32 GB Disk Space in /home
+4. Virtualization Enabled
+5. Internet enabled on VM
 
 
 ## 1. Install Dependencies
